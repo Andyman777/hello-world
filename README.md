@@ -1,2 +1,4 @@
 # hello-world
-Just my another repository
+
+Hi, guys!
+I love my wife Sashka and her vonderful Turkish kofte!
